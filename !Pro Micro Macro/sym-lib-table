@@ -1,5 +1,5 @@
 (sym_lib_table
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "O:/Documents/GitHub/Keyboard-PCB-designs/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "O:/Documents/GitHub/Keyboard-PCB-designs/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name promicro)(type Legacy)(uri O:/Documents/GitHub/Keyboard-PCB-designs/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri O:/Documents/GitHub/Keyboard-PCB-designs/ProMicroKiCad.pretty/promicro_library/promicro.lib)(options "")(descr ""))
 )
